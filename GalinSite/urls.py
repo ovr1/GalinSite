@@ -16,6 +16,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from django.conf.urls import include
+from django.conf import settings
+from django.conf.urls.static import static
+
+
 
 # noinspection PyUnresolvedReferences
 
@@ -25,5 +29,5 @@ urlpatterns = [
     path('massage/', include('massage.urls')),
     path('spa/',include('spa.urls')),
     path('meditate/', include('meditate.urls')),
-    ]
+    ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 
