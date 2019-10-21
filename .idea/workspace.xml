@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="49fc6be4-b575-4971-85b3-6c71f0836a08" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/massage/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/massage/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meditate/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/meditate/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spa/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/spa/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GalinSite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/GalinSite/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +138,7 @@
       <workItem from="1571588516219" duration="6370000" />
       <workItem from="1571637973522" duration="5084000" />
       <workItem from="1571671782261" duration="2647000" />
-      <workItem from="1571679564708" duration="2913000" />
+      <workItem from="1571679564708" duration="3859000" />
     </task>
     <task id="LOCAL-00001" summary="first test">
       <created>1571340049389</created>
@@ -191,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571681803634</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="first test">
+      <created>1571683329748</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571683329748</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
