@@ -4,7 +4,10 @@
     <list default="true" id="49fc6be4-b575-4971-85b3-6c71f0836a08" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GalinSite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/GalinSite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GalinSite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/GalinSite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Index/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/massage/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/massage/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/massage/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/massage/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,11 +47,12 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/GalinSite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../todoapp" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\PycharmProjects\GalinSite\massage" />
       <recent name="C:\Users\Lenovo\PycharmProjects\GalinSite\GalinSite" />
       <recent name="C:\Users\Lenovo\PycharmProjects\GalinSite1\static" />
       <recent name="C:\Users\Lenovo\PycharmProjects\GalinSite1" />
@@ -135,7 +139,10 @@
       <workItem from="1571563056446" duration="61000" />
       <workItem from="1571563194149" duration="62000" />
       <workItem from="1571563278105" duration="5657000" />
-      <workItem from="1571588516219" duration="4383000" />
+      <workItem from="1571588516219" duration="6370000" />
+      <workItem from="1571637973522" duration="5084000" />
+      <workItem from="1571671782261" duration="2647000" />
+      <workItem from="1571679564708" duration="1035000" />
     </task>
     <task id="LOCAL-00001" summary="first test">
       <created>1571340049389</created>
@@ -165,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571568718292</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="first test">
+      <created>1571597779104</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571597779105</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
