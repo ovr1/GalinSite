@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49fc6be4-b575-4971-85b3-6c71f0836a08" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/GalinSite/ru_taggit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/zapis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GalinSite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GalinSite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GalinSite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/GalinSite/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Index/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index/templates/Index/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Index/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Index/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,19 +47,19 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Lenovo\PycharmProjects\GalinSite\Index\templates\Index" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\PycharmProjects\GalinSite\static" />
+      <recent name="C:\Users\Lenovo\PycharmProjects\GalinSite\GalinSite" />
       <recent name="C:\Users\Lenovo\PycharmProjects\GalinSite\templates" />
       <recent name="C:\Users\Lenovo\PycharmProjects\GalinSite\massage" />
-      <recent name="C:\Users\Lenovo\PycharmProjects\GalinSite\GalinSite" />
       <recent name="C:\Users\Lenovo\PycharmProjects\GalinSite1\static" />
-      <recent name="C:\Users\Lenovo\PycharmProjects\GalinSite1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\PycharmProjects\GalinSite\Index\templates\Index" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -147,7 +147,9 @@
       <workItem from="1571637973522" duration="5084000" />
       <workItem from="1571671782261" duration="2647000" />
       <workItem from="1571679564708" duration="4393000" />
-      <workItem from="1571719564005" duration="2792000" />
+      <workItem from="1571719564005" duration="5135000" />
+      <workItem from="1571732902267" duration="783000" />
+      <workItem from="1573208993467" duration="4604000" />
     </task>
     <task id="LOCAL-00001" summary="first test">
       <created>1571340049389</created>
@@ -219,7 +221,21 @@
       <option name="project" value="LOCAL" />
       <updated>1571721097255</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="first test">
+      <created>1571722489749</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1571722489749</updated>
+    </task>
+    <task id="LOCAL-00012" summary="first test">
+      <created>1571733023065</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1571733023072</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
